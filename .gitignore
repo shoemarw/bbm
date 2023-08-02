@@ -1,0 +1,4 @@
+build/*
+include/bbm.h
+include/bbm_bsdfmodel.h
+include/bbm_staticmodel.h
